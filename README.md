@@ -1,2 +1,4 @@
-# python_gui_clock
-using python tkinter to display current datetime
+# Python GUI Clock
+
+Using Python's Tkinter to display current datetime windown.
+The window displays as always on top mode.
